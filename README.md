@@ -1,3 +1,4 @@
+
 # Composing React Components
 
 ## Running this project
@@ -8,7 +9,7 @@ that compiles our frontend assets and comes with an integrated development serve
 The dev server runs on port `1234` by default, but will use another if `1234` is
 being used by another application.
 
-- Clone the repo.
-- Navigate into the project folder.
-- Run `npm i` to download the project's dependencies listed in the `package.json`.
-- Run `npm start` to compile the project and spin up a dev server on `http://localhost:1234`.
+X- Clone the repo.
+X- Navigate into the project folder.
+X- Run `npm i` to download the project's dependencies listed in the `package.json`.
+X- Run `npm start` to compile the project and spin up a dev server on `http://localhost:1234`.
